@@ -1,4 +1,6 @@
-![MasterHead](./doc/banner.gif)
+<p align="center" width="100%" height="300">
+    <img width="100%" height="280"  src="./doc/banner.gif">
+</p>
 
 <h1 align="center">Hi 👋, I'm Ahmed Sabry</h1>
 <h3 align="center">A passionate Frontend Web Developer from Egypt</h3>
