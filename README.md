@@ -1,4 +1,4 @@
-![MasterHead](./doc/mm.gif)
+![MasterHead](./doc/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Ahmed Sabry</h1>
 <h3 align="center">A passionate Frontend Web Developer from Egypt</h3>
